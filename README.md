@@ -15,3 +15,4 @@ Commands available while the program is running:
 <b>$ g-state n faulty/non-faulty</b><br>
 <b>$ g-kill n</b><br>
 <b>$ g-add n</b><br>
+<b>$ exit</b><br>
